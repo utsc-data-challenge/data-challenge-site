@@ -10,6 +10,7 @@ div.content {padding:20px 0px 20px; line-height:normal; min-height:600px; margin
   align-items: center; /* Vertical alignment */
   margin-left: 135px; /* Match sidebar width */
   position: relative;
+  flex-wrap: wrap;
 }
 .topbanner{
     padding:240px 0px 20px; 
@@ -53,7 +54,7 @@ a.bold {text-decoration: none; font-weight:bold}
 div.pad10 {padding:10px}
 div.dots {background-image:url(images/hdot.gif); background-repeat:repeat-x; height:8px}
 
-p {margin:0px; padding:0px 0px 8px 0px}
+p {margin:0px; padding:0px 0px 8px 0px; font-size: medium;}
 p.close {padding-bottom:4px; font-size:11px}
 
 img {border:none}
