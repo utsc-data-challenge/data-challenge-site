@@ -141,3 +141,12 @@ li {padding-bottom:6px}
   display: block;
   font: trade;
 }
+
+.sponsorimage {
+  display: block; 
+  margin-left: auto;
+	margin-right: auto;
+	width: 30%;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
